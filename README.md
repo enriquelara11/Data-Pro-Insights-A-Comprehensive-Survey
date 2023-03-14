@@ -1,7 +1,7 @@
 # Data Insights Survey
 
 ### Introduction
-Hi, I'm [Your Name] and I love learning new things using PowerBI. In this project, I had the opportunity to work with a dataset contributed by many Data Analysts around the world. We used PowerBI to visualize the survey data and create a dashboard displaying some insights into the results.
+Hello everyone, I took on a new challenge today and decided to explore Power BI and its capabilities. I had the pleasure of utilizing a vast dataset that was generously contributed by Data Analysts from around the globe via LinkedIn (Special thanks to Alex The Analyst on Youtube for the datset). With the help of Power BI, we created an interactive dashboard that displays essential insights into the survey results. The primary goal of this project was to gain practical experience and knowledge with the Power BI visualization tool.
 
 ### Data
 I want to give a special shoutout to all the Data Analysts who contributed to the survey dataset used in this project. Without their contributions, this project would not have been possible. The survey data helped us to gain insights into [insert what you learned from the data].
